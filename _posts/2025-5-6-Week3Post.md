@@ -1,4 +1,4 @@
-## Week 3 ##
+## Week 3 
 
 ### What did you do last week ###
 Last week, I focused on finalizing my project idea for the course. I spent time reviewing the feedback I received from my instructor and classmates, which helped me clarify my direction. This planning phase was important to ensure the project would be both meaningful and manageable given my schedule. 
