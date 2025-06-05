@@ -30,45 +30,16 @@ Project Portfolio Link on Github
 ### Schedule: 
 Rough Draft - I used Chat GPT to help me but this is preliminary! 
 
-Week
-Focus Area
-Goals
-Hours
-1
-Project setup + Arrays
-Set up tracker, choose platforms, solve 3–4 array problems
-5
-2
-Strings
-Solve 4–5 string-based problems, log insights
-5
-3
-Hash Maps / Sets
-Practice lookup & frequency problems, log time & methods
-5
-4
-Recursion + Backtracking (light)
-Solve 3 problems + reflect on recursion techniques
-5
-5
-Linked Lists
-Practice 4–5 problems, understand traversal + manipulation
-5
-6
-Stacks & Queues
-Focus on logic-based problems and LIFO/FIFO use cases
-5
-7
-Searching & Sorting
-Review binary search, bubble/merge sort, solve challenges
-5
-8
-Mixed Review / Harder Problems
-Choose 4–5 mixed problems, reflect on overall progress
-5
-9
-Final Report + Reflection
-Summarize growth, lessons learned, document overall impact
-5
+| Week | Focus Area | Goals | Hours |
+|------|------------|-------|-------|
+|  1 | Project setup + Arrays| Set up tracker, choose platforms, solve 3–4 array problems | 5|
+| 2  | Strings | Solve 4–5 string-based problems, log insights  | 5 |
+| 3  | Hash Maps / Sets |Practice lookup & frequency problems, log time & methods | 5 |
+| 4  | Recursion + Backtracking (light) |Solve 3 problems + reflect on recursion techniques | 5 |
+| 5  | Linked Lists | Practice 4–5 problems, understand traversal + manipulation |  5 |
+| 6 | Stacks & Queues | Focus on logic-based problems and LIFO/FIFO use cases | 5 |
+| 7 | Searching & Sorting | Review binary search, bubble/merge sort, solve challenges | 5 |
+| 8 | Mixed Review / Harder Problems | Choose 4–5 mixed problems, reflect on overall progress | 5 |
+| 9 | Final Report + Reflection | Summarize growth, lessons learned, document overall impact | 5 |
 
 
