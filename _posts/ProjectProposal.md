@@ -1,7 +1,8 @@
 # Project Proposal  Summer 2025
 
-CSPB-3112 SUUMMER 2025
-
+CSPB-3112 SUMMER 2025
+Date: 06/05/2025
+--- 
 ### Vision Statement 
 To build a strong foundation in two languages that have already been introduced to by completing a structured self guided practice plan using online coding platforms. This project will help cultivate skills critical for technical job interviews and long term success in development roles. 
 ### Motivation
