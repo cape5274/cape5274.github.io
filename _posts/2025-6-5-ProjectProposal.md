@@ -16,10 +16,17 @@ Improve familiarity with key algorithms topics
 Document learning growth through tracking and reflection.
 Use python or C to use the display the data that I have collected throughout this project 
 ### Risk 
-Involving two programming languages may prevent full understanding of one or the other 
-Time constraints 
-Difficulty with harder problems may cause me to get off track with my schedule and goals. 
-Mitigation: Heaving to complete one language goals before moving on to the other and then having to stick to the schedule of problems that i want to get through 
+Risk: Split focus between Python and C may hinder deeper understanding of either language.  
+Mitigation: Focus on completing goals in one language before moving to the other.
+
+Risk: Limited time due to internship and coursework could disrupt consistent progress.  
+Mitigation: Schedule shorter, manageable practice sessions and allow flexibility in weekly goals.
+
+Risk: Challenging problems may cause frustration or delays in the schedule.  
+Mitigation: Begin with easier problems, increase difficulty gradually, and revisit hard problems later.
+
+Risk: Lack of external feedback might slow progress or leave knowledge gaps.  
+Mitigation: Use weekly reflections, track progress, and publish work on GitHub for accountability and self-review.
 ### Project Assessment 
 The project will be evaluated on: 
 Completion of detailed problem solving tracker 
