@@ -31,6 +31,9 @@ hr {
 .post_navi .nav_prev .post_navi-arrow {
   left: 0;
 }
+body {
+  background-color: #ffe6f0; /* light pink */
+}
 
 .post_navi .nav_next .post_navi-arrow {
   right: 0;
