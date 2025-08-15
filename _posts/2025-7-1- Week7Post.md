@@ -1,3 +1,9 @@
+## Week 7 Post 
+
+Date: 7/1/2025
+
+---
+
 ### What did you do last week?
 I updated my project schedule to focus only on core areas of C (like pointers, linked lists, and syntax) instead of trying to cover everything. I also tried to stay on top of my practice schedule, but it was difficult due to traveling, being sick, as well as my vacation but i still managed to get some work in even if progress was slower.
 
